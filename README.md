@@ -1,16 +1,58 @@
-## Hi there 👋
+Hi! I’m a Java Full Stack Developer & DevOps Engineer who loves building scalable applications and deploying them the right way 🚀
+I work across the full software lifecycle — from designing backend services and crafting responsive UIs to automating builds, deployments, and cloud infrastructure.
 
-<!--
-**divya2005r/divya2005r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy solving real-world problems, optimizing systems, and continuously learning modern development and DevOps practices.
+🛠️ Tech Stack
+💻 Backend
 
-Here are some ideas to get you started:
+Java, Spring Boot, Hibernate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+RESTful APIs, Microservices
+
+🎨 Frontend
+
+HTML, CSS, JavaScript
+
+
+🗄️ Database
+
+MySQL, PostgreSQL
+
+⚙️ DevOps & Cloud
+
+Git & GitHub
+
+Docker, Kubernetes (basic/intermediate)
+
+CI/CD pipelines (Jenkins / GitHub Actions)
+
+Linux, Shell scripting
+
+AWS / Cloud fundamentals
+
+🚀 What I Do
+
+Build end-to-end full stack applications using Java
+
+Automate CI/CD pipelines for faster and reliable releases
+
+Containerize applications using Docker
+
+Follow DevOps best practices for monitoring, deployment, and scalability
+
+🎯 Goals
+
+Write clean, maintainable, and production-ready code
+
+Bridge the gap between development and operations
+
+Contribute to open-source projects
+
+Grow as a Software Developer & DevOps Engineer
+
+
+🔹 customize it for freshers / internships
+
+🔹 add GitHub badges + stats
+
+🔹 tailor it for Java-heavy or DevOps-heavy roles
