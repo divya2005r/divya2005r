@@ -2,6 +2,8 @@ Hi! I’m a Java Full Stack Developer & DevOps Engineer who loves building scala
 I work across the full software lifecycle — from designing backend services and crafting responsive UIs to automating builds, deployments, and cloud infrastructure.
 
 I enjoy solving real-world problems, optimizing systems, and continuously learning modern development and DevOps practices.
+
+
 🛠️ Tech Stack
 💻 Backend
 
