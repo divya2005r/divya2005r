@@ -4,23 +4,23 @@ I work across the full software lifecycle — from designing backend services an
 I enjoy solving real-world problems, optimizing systems, and continuously learning modern development and DevOps practices.
 
 
-🛠️ Tech Stack
-💻 Backend
+ Tech Stack
+ Backend
 
 Java, Spring Boot, Hibernate
 
 RESTful APIs, Microservices
 
-🎨 Frontend
+ Frontend
 
 HTML, CSS, JavaScript
 
 
-🗄️ Database
+ Database
 
 MySQL, PostgreSQL
 
-⚙️ DevOps & Cloud
+DevOps & Cloud
 
 Git & GitHub
 
@@ -32,7 +32,7 @@ Linux, Shell scripting
 
 AWS / Cloud fundamentals
 
-🚀 What I Do
+What I Do
 
 Build end-to-end full stack applications using Java
 
@@ -42,7 +42,7 @@ Containerize applications using Docker
 
 Follow DevOps best practices for monitoring, deployment, and scalability
 
-🎯 Goals
+ Goals
 
 Write clean, maintainable, and production-ready code
 
